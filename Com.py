@@ -1,7 +1,7 @@
 import serial
 
 # Nombre del puerto COM (ajustar según tu configuración)
-port_name = 'COM5'  # Cambiar COM1 al puerto que necesites
+port_name = 'COM1'  # Cambiar COM1 al puerto que necesites
 
 # Velocidad de baudios (ajustar según tu configuración)
 baud_rate = 9600
